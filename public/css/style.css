@@ -1,0 +1,11 @@
+#title {
+    background-color: grey
+}
+
+#description {
+    border: 1px solid black;
+}
+
+.container {
+    padding: 50px;
+}
